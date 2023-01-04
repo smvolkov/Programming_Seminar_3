@@ -33,7 +33,7 @@ void Palindrom()
 
 }
 
-//Palindrom();
+Palindrom();
 
 //--------------------------------------------------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ double[] GetCoordinates()
     return point;
 }
 
-//Distance(GetCoordinates(), GetCoordinates());
+Distance(GetCoordinates(), GetCoordinates());
 
 //-------------------------------------------------------------------------------------------------
 // Задача 23
